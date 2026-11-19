@@ -1,0 +1,12 @@
+{
+  "artwork": [
+    {"file": "still.svg", "description": "Original SVG editorial layout concept; architectural graphic, no photography.", "type": "concept"},
+    {"file": "offgrid.svg", "description": "Original SVG graphic festival poster concept.", "type": "concept"},
+    {"file": "cirrus.svg", "description": "Original SVG weather app interface concept.", "type": "concept"},
+    {"file": "moss.svg", "description": "Original SVG botanical identity concept.", "type": "concept"},
+    {"file": "folio.svg", "description": "Original SVG personal finance dashboard concept; all names and balances are demonstration data.", "type": "concept"}
+  ],
+  "externalAssets": [],
+  "note": "Portfolio artwork is illustrative concept work, not evidence of real client engagements. No external fonts, images, or runtime assets are required."
+}
+

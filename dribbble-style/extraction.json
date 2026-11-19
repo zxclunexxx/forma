@@ -1,0 +1,174 @@
+{
+  "requestedUrl": "https://dribbble.com/",
+  "finalUrl": "https://dribbble.com/",
+  "capturedAt": "2026-11-12T07:55:10.355Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "sampledElements": 259,
+  "totalElements": 2432,
+  "browser": "chrome.exe",
+  "upstream": "https://github.com/bergside/design-md-chrome/tree/8e07614fb18752ab1ee14dd65a8ff93e63c9b13b",
+  "adapterVersion": "1.0.0",
+  "automaticTemplateValidation": {
+    "design": {
+      "isValid": true,
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "label": "Required section present: ## Mission",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Brand",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Style Foundations",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Accessibility",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Writing Tone",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Rules: Do",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Rules: Don't",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Guideline Authoring Workflow",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Required Output Structure",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Component Rule Expectations",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Quality Gates",
+          "ok": true
+        },
+        {
+          "label": "Accessibility target included",
+          "ok": true
+        },
+        {
+          "label": "Contains non-negotiable rule wording",
+          "ok": true
+        },
+        {
+          "label": "Contains recommendation wording",
+          "ok": true
+        }
+      ]
+    },
+    "skill": {
+      "isValid": true,
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "label": "Frontmatter block exists",
+          "ok": true
+        },
+        {
+          "label": "Frontmatter includes design-system name",
+          "ok": true
+        },
+        {
+          "label": "Frontmatter includes description",
+          "ok": true
+        },
+        {
+          "label": "Managed block markers exist",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Mission",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Brand",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Style Foundations",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Accessibility",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Writing Tone",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Rules: Do",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Rules: Don't",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Guideline Authoring Workflow",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Required Output Structure",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Component Rule Expectations",
+          "ok": true
+        },
+        {
+          "label": "Required section present: ## Quality Gates",
+          "ok": true
+        },
+        {
+          "label": "Accessibility target included",
+          "ok": true
+        },
+        {
+          "label": "Contains non-negotiable rule wording",
+          "ok": true
+        },
+        {
+          "label": "Contains recommendation wording",
+          "ok": true
+        }
+      ]
+    }
+  },
+  "review": {
+    "completedAt": "2026-11-12T07:59:35.860Z",
+    "previewInspected": true,
+    "supplementalMeasurementsAt": "2026-11-12T07:57:15.521Z",
+    "evidence": "observations.json",
+    "documents": "DESIGN.md and SKILL.md rewritten from reviewed measurements; original template validation does not apply to their final content.",
+    "corrections": [
+      "Public design marketplace, not authenticated dashboard",
+      "Pink #ea4c89 included from heading and search button",
+      "Body font measured as 16px/400/28px",
+      "Inverse text corrected to white",
+      "Pill radius normalized to practical 9999px with original value documented",
+      "Context-specific spacing excluded from reviewed reusable tokens"
+    ],
+    "scope": "Public homepage at 1440x1000; no mobile or interactive-state audit"
+  }
+}

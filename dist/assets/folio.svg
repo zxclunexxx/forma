@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs><filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dy="8" stdDeviation="13" flood-color="#15297a" flood-opacity=".09"/></filter></defs>
+  <rect width="800" height="600" fill="#e9e8f0"/>
+  <g transform="translate(43 54)" filter="url(#shadow)">
+    <rect width="714" height="492" rx="13" fill="#f9f9fc"/>
+    <path d="M13 0H139V492H13A13 13 0 0 1 0 479V13A13 13 0 0 1 13 0" fill="#fff"/>
+    <path d="M139 0V492" stroke="#eeeef4"/>
+    <g font-family="Arial,sans-serif">
+      <text x="25" y="48" fill="#373ddb" font-size="28" letter-spacing="-1.5" font-weight="700">folio</text>
+      <text x="26" y="81" fill="#9394a5" font-size="8">Your money, in focus.</text>
+      <rect x="13" y="106" width="112" height="33" rx="6" fill="#eeeeff"/>
+      <g font-size="9" fill="#868597"><text x="40" y="127" fill="#4544cb" font-weight="700">Overview</text><text x="40" y="167">Transactions</text><text x="40" y="208">Accounts</text><text x="40" y="249">Budgets</text><text x="40" y="290">Reports</text></g>
+      <g fill="none" stroke="#9896aa" stroke-width="1.3"><rect x="24" y="119" width="8" height="8" rx="1" stroke="#4544cb"/><path d="M24 160h9m-9 4h6m-6 4h9M24 202h9v7h-9zM24 244h9v8h-9zM24 287v5m4-9v9m4-12v12"/></g>
+      <circle cx="29" cy="453" r="13" fill="#e9e6fa"/><text x="29" y="456" font-size="8" text-anchor="middle" fill="#7069a2">JD</text><text x="50" y="450" font-size="9" fill="#444357">Jamie Davis</text><text x="50" y="465" font-size="7" fill="#aaa9b7">Personal workspace</text>
+      <text x="167" y="47" font-size="21" font-weight="700" letter-spacing="-.5" fill="#25253b">Your money at a glance</text>
+      <text x="168" y="68" font-size="9" fill="#9291a3">A little clarity for your everyday finances.</text>
+      <rect x="598" y="27" width="88" height="25" rx="6" fill="#4144d9"/><text x="642" y="43" text-anchor="middle" font-size="8" fill="#fff">+ Add transaction</text>
+      <rect x="167" y="94" width="167" height="94" rx="9" fill="#4246db"/>
+      <text x="183" y="118" font-size="9" fill="#d6d7ff">Total balance</text><text x="182" y="150" font-size="25" font-weight="700" letter-spacing="-.8" fill="#fff">$24,680.50</text><text x="183" y="174" font-size="8" fill="#cfd2ff">↗ 8.2% this month</text>
+      <rect x="345" y="94" width="166" height="94" rx="9" fill="#fff"/>
+      <text x="361" y="118" font-size="9" fill="#9392a4">Income</text><text x="360" y="150" font-size="25" font-weight="700" letter-spacing="-.8" fill="#323149">$8,450</text><text x="361" y="174" font-size="8" fill="#549684">↗ 4.1% this month</text>
+      <rect x="522" y="94" width="164" height="94" rx="9" fill="#fff"/>
+      <text x="538" y="118" font-size="9" fill="#9392a4">Expenses</text><text x="537" y="150" font-size="25" font-weight="700" letter-spacing="-.8" fill="#323149">$3,280</text><text x="538" y="174" font-size="8" fill="#9392a4">Within your monthly budget</text>
+      <rect x="167" y="201" width="341" height="179" rx="9" fill="#fff"/>
+      <text x="183" y="226" font-size="11" font-weight="700" fill="#323149">Cash flow</text><text x="487" y="226" font-size="8" fill="#9392a4" text-anchor="end">Last 6 months⌄</text>
+      <g stroke="#f0f0f6"><path d="M209 253H486M209 281H486M209 310H486M209 339H486"/></g>
+      <g fill="#a3a1b0" font-size="7"><text x="182" y="255">$10k</text><text x="187" y="283">$7k</text><text x="187" y="312">$4k</text><text x="187" y="341">$1k</text></g>
+      <path d="M211 326C231 326 241 298 263 300S291 319 316 294 355 301 372 279 403 294 429 272 458 270 484 250V340H211Z" fill="#efefff"/>
+      <path d="M211 326C231 326 241 298 263 300S291 319 316 294 355 301 372 279 403 294 429 272 458 270 484 250" fill="none" stroke="#5a5ce0" stroke-width="2.5"/>
+      <g fill="#a3a1b0" font-size="7" text-anchor="middle"><text x="211" y="359">Jan</text><text x="264" y="359">Feb</text><text x="319" y="359">Mar</text><text x="374" y="359">Apr</text><text x="429" y="359">May</text><text x="483" y="359">Jun</text></g>
+      <rect x="521" y="201" width="165" height="179" rx="9" fill="#fff"/><text x="537" y="226" font-size="11" font-weight="700" fill="#323149">Monthly budget</text>
+      <circle cx="604" cy="291" r="39" fill="none" stroke="#efeffa" stroke-width="11"/><circle cx="604" cy="291" r="39" fill="none" stroke="#7471e5" stroke-width="11" stroke-dasharray="174 245" transform="rotate(-90 604 291)" stroke-linecap="round"/>
+      <text x="604" y="291" text-anchor="middle" font-size="22" font-weight="700" fill="#34334a">72%</text><text x="604" y="307" text-anchor="middle" font-size="7" fill="#a3a1b0">of budget used</text><text x="604" y="357" text-anchor="middle" font-size="8" fill="#9392a4">You're on track this month.</text>
+      <rect x="167" y="393" width="519" height="78" rx="9" fill="#fff"/>
+      <text x="183" y="417" font-size="11" font-weight="700" fill="#323149">Recent transactions</text><text x="668" y="417" text-anchor="end" font-size="8" fill="#7370ce">View all</text>
+      <circle cx="192" cy="445" r="11" fill="#f4e6df"/><path d="M188 441h7v7h-7zM195 442h2v4h-2" fill="none" stroke="#a98169"/>
+      <text x="213" y="448" font-size="9" fill="#525066">Morning coffee</text><text x="366" y="448" font-size="8" fill="#aaa9b7">Food &amp; drink</text><text x="516" y="448" font-size="8" fill="#aaa9b7">Today, 9:42 AM</text><text x="668" y="448" text-anchor="end" font-size="9" font-weight="700" fill="#525066">−$4.50</text>
+    </g>
+  </g>
+</svg>

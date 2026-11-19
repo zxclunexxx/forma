@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs><filter id="shadow" x="-50%" y="-30%" width="200%" height="180%"><feDropShadow dx="0" dy="13" stdDeviation="16" flood-color="#467394" flood-opacity=".16"/></filter></defs>
+  <rect width="800" height="600" fill="#cee6f2"/>
+  <g font-family="Arial,sans-serif" fill="#224a67">
+    <text x="56" y="92" font-size="45" font-weight="700" letter-spacing="-2">cirrus</text>
+    <text x="58" y="126" font-size="16">A little more outdoors.</text>
+    <text x="58" y="510" font-size="11" letter-spacing="1.5">WEATHER, WITH A CLEARER VIEW.</text>
+    <text x="58" y="533" font-size="11" opacity=".6">Mobile app · UI concept</text>
+  </g>
+  <g transform="translate(392 30)" filter="url(#shadow)">
+    <rect width="287" height="548" rx="45" fill="#f9fcfe" stroke="#e7f3f9" stroke-width="7"/>
+    <rect x="90" y="14" width="108" height="25" rx="14" fill="#233b4b"/>
+    <text x="26" y="31" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#31526b">9:41</text>
+    <path d="M240 24h17v7h-17zM259 26v3" fill="none" stroke="#31526b" stroke-width="1.5"/>
+    <g font-family="Arial,sans-serif" fill="#31526b">
+      <text x="26" y="79" font-size="11">Good morning,</text><text x="26" y="104" font-size="22" font-weight="700">Copenhagen</text>
+      <circle cx="249" cy="87" r="15" fill="#eaf3f8"/><path d="M243 86l5-5 6 6-5 5-6-6z" stroke="#6386a0" fill="none"/>
+      <text x="143" y="233" text-anchor="middle" font-size="91" letter-spacing="-6" font-weight="300">18°</text>
+    </g>
+    <g transform="translate(193 112) scale(.55)">
+      <circle cx="41" cy="43" r="27" fill="#f6d18c"/>
+      <path d="M-7 77c-13 0-23-10-23-23s10-23 23-23c5-23 39-28 50-6 22-2 34 10 34 26 0 15-11 26-27 26z" fill="#e2eff7"/>
+      <path d="M-10 70c-10 0-17-7-17-17 0-11 8-18 19-18 7-25 40-22 46-3 21-4 34 7 34 20 0 12-9 21-22 21z" fill="#f9fcfe"/>
+    </g>
+    <g font-family="Arial,sans-serif" fill="#31526b" text-anchor="middle">
+      <text x="143" y="265" font-size="14">A few clouds, plenty of possibility.</text>
+      <text x="143" y="287" font-size="11" fill="#7d99ac">Feels like 19°    H: 21°    L: 14°</text>
+    </g>
+    <rect x="19" y="313" width="249" height="103" rx="22" fill="#eaf4fa"/>
+    <g font-family="Arial,sans-serif" font-size="10" fill="#6b8aa1" text-anchor="middle">
+      <text x="51" y="337">Now</text><text x="112" y="337">11 AM</text><text x="174" y="337">12 PM</text><text x="235" y="337">1 PM</text>
+      <g fill="#f2c36e"><circle cx="51" cy="363" r="9"/><circle cx="112" cy="363" r="9"/><circle cx="174" cy="363" r="9"/><circle cx="235" cy="363" r="9"/></g>
+      <g fill="#31526b" font-size="14" font-weight="700"><text x="51" y="397">18°</text><text x="112" y="397">19°</text><text x="174" y="397">21°</text><text x="235" y="397">20°</text></g>
+    </g>
+    <g font-family="Arial,sans-serif" fill="#31526b">
+      <text x="26" y="449" font-size="12" font-weight="700">A good day for a long walk</text>
+      <text x="26" y="470" font-size="10" fill="#7d99ac">Light breeze. No rain until evening.</text>
+    </g>
+    <path d="M25 490H262" stroke="#deebf3"/>
+    <g fill="#67889d"><circle cx="75" cy="513" r="5"/><circle cx="143" cy="513" r="5" fill="#b2c7d5"/><circle cx="211" cy="513" r="5" fill="#b2c7d5"/></g>
+    <rect x="98" y="535" width="90" height="4" rx="2" fill="#31526b"/>
+  </g>
+</svg>
